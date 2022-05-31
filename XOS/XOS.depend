@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1653066650 source:d:\c++\xos\nhomsdl.cpp
+	"NhomSDL.h"
+
+1653066650 d:\c++\xos\nhomsdl.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<time.h>
+
+1653066668 source:d:\c++\xos\main.cpp
+	"NhomSDL.h"
+
+1653932215 source:d:\c++\xos\game.cpp
+	"game.h"
+	"botNhomKhac.h"
+
+1653879801 d:\c++\xos\game.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1653878639 source:d:\c++\xos\mai.cpp
+	"game.h"
+
+1653396293 source:d:\c++\xos\botnhomkhac.cpp
+	"botNhomKhac.h"
+
+1653395789 d:\c++\xos\botnhomkhac.h
+	"game.h"
+
